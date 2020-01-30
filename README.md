@@ -1,0 +1,2 @@
+# gHipster
+A golang generator 
